@@ -1,0 +1,39 @@
+#prezmeteo {
+  width: 60vh;
+  border-radius: 10px;
+  box-shadow: 5px 4px 5px 4px brown;
+  border: 2px solid;
+  margin: 1%;
+  text-align: center;
+  background-color: rgb(160, 234, 236);
+  display: block;
+  margin-bottom: 2%;
+}
+#titre {
+  text-align: center;
+  color: cadetblue;
+  background-color: blanchedalmond;
+  line-height: 100px;
+  padding: 0px;
+  margin-top: -2%;
+}
+.presentation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#position {
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+  background-color: brown;
+  color: white;
+}
+.bouton {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-image: url(img/lever-soleil-planete.jpg);
+}
